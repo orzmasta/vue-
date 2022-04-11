@@ -14,7 +14,7 @@
 vue elemtnt-ui vuex router mock
 
 #### 安装教程
-
+下载zip解压
 1.  npm i
 2.  npm run serve
 
